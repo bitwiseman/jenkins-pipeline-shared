@@ -1,0 +1,7 @@
+<strong>sendNotifications(buildStatus='STARTED')</strong>
+
+<p>
+    Sends notifications via HipChat, Slack, and email.
+    Defaults the sending "Started" notification.
+    Pass the build status string and it customize the notifications based on status.
+</p>
